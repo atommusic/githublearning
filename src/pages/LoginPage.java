@@ -6,6 +6,7 @@ public class LoginPage {
 		// TODO Auto-generated method stub
 		System.out.println("Login Page");
 		System.out.println("Logged in ");
+		System.out.println("Logged in ");
 	}
 
 }
